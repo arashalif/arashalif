@@ -1,3 +1,4 @@
+![alt text](https://github.com/arashalif/arashalif/blob/main/ArashAghelifar.png?raw=true)
 <h1 align="center">Hi 👋, I'm Arash Aghelifar, Senior Android Developer</h1>
 <h3 align="center">I've been Mobile App Developer Since 2014 and always passionately developing mobile applications also during this journey, I've worked on +40 projects. Out of these, +30 projects were on Android.</h3>
 
