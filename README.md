@@ -11,9 +11,9 @@
 
 - 🛠️ Contributed to +40 projects **with a strong focus on Android & Mobile development.**
 
-- 📚 Committed to [lifelong learning, exploring fresh paradigms and fundamental concepts.](lifelong learning, exploring fresh paradigms and fundamental concepts.)
+- 📚 Committed to lifelong learning, exploring fresh paradigms and fundamental concepts. lifelong learning, exploring fresh paradigms and fundamental concepts.
 
-- Versatile portfolio includes projects in **E-Commerce, Navigation, Content-Based, Travel and Booking, E-Learning, Fintech and Social Networking applications.**
+- 🌐 Versatile portfolio includes projects in **E-Commerce, Navigation, Content-Based, Travel and Booking, E-Learning, Fintech and Social Networking applications.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arash-aghelifar/**
 
