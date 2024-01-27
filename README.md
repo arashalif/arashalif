@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arash Aghelifar, Senior Android Developer</h1>
-<h3 align="center">I've been Mobile App Developer Since 2014 and always passionately developing mobile applications also during this journey, I've worked on 36 projects. Out of these, 30 projects were on Android.</h3>
+<h3 align="center">I've been Mobile App Developer Since 2014 and always passionately developing mobile applications also during this journey, I've worked on +40 projects. Out of these, +30 projects were on Android.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arashalif" alt="arashalif" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 💼 Collaborated with **major international software companies, serving over 40 million users & enterprise company.**
 
-- 📱 Mobile App Developer with 7+ years **of dedicated experience crafting innovative solutions.**
+- 📱 Mobile App Developer with 9+ years **of dedicated experience crafting innovative solutions.**
 
 - 🛠️ Contributed to +40 projects **with a strong focus on Android & Mobile development.**
 
