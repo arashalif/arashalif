@@ -1,8 +1,8 @@
 ![alt text](https://github.com/arashalif/arashalif/blob/main/ArashAghelifar.png?raw=true)
-<h1 align="center">Hi 👋, I'm Arash Aghelifar, Senior Android Developer</h1>
-<h3 align="center">I've been Mobile App Developer Since 2014 and always passionately developing mobile applications also during this journey, I've worked on +40 projects. Out of these, +30 projects were on Android.</h3>
+<h1 align="center">Hi 👋, I'm Arash Aghelifar, Senior Android Developer </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arashalif" alt="arashalif" /></a> </p>
+<a href="https://wakatime.com/@b0875c57-3929-42f4-ac0a-9407f2d21f5f"><img src="https://wakatime.com/badge/user/b0875c57-3929-42f4-ac0a-9407f2d21f5f.svg" alt="Total time coded since Oct 6 2021" /></a>
+<h3 align="center">I've been Mobile App Developer Since 2014 and always passionately developing mobile applications also during this journey, I've worked on +40 projects. Out of these, +30 projects were on Android.</h3>
 
 - 🔭 I’m currently working on [SnappFood Android Apps (+20M users)](https://snappfood.ir/)
 
