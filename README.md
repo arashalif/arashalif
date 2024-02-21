@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/arash-aghelifar/**
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Arshalif/002b5a24-b6b0-46d9-8bbd-1b8f8e8f8bb4.png" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/arashaghelifar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arashaghelifar" height="30" width="40" /></a>
