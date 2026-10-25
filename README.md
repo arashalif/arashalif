@@ -1,5 +1,5 @@
 ![alt text](https://github.com/arashalif/arashalif/blob/main/ArashAghelifar.png?raw=true)
-<h1 align="center">Hi 👋, I'm Arash Aghelifar, Senior Android Developer </h1>
+<h1 align="center">Hi 👋, I'm Arash Aghelifar, Senior Android Engineer & Mobile Tech Lead</h1>
 
 <a href="https://wakatime.com/@b0875c57-3929-42f4-ac0a-9407f2d21f5f"><img src="https://wakatime.com/badge/user/b0875c57-3929-42f4-ac0a-9407f2d21f5f.svg" alt="Total time coded since Oct 6 2021" /></a>
 <h3 align="center">I've been Mobile App Developer Since 2014 and always passionately developing mobile applications also during this journey, I've worked on +40 projects. Out of these, +30 projects were on Android.</h3>
@@ -8,11 +8,11 @@
 
 - 💼 Collaborated with **major international software companies, serving over 40 million users & enterprise company.**
 
-- 📱 Mobile App Developer with 9+ years **of dedicated experience crafting innovative solutions.**
+- 📱 Mobile App Developer with 10+ years **of dedicated experience crafting innovative solutions.**
 
 - 🛠️ Contributed to +40 projects **with a strong focus on Android & Mobile development.**
 
-- 📚 Committed to lifelong learning, exploring fresh paradigms and fundamental concepts. lifelong learning, exploring fresh paradigms and fundamental concepts.
+- 📚 Committed to lifelong learning, exploring fresh paradigms and fundamental concepts.
 
 - 🌐 Versatile portfolio includes projects in **E-Commerce, Navigation, Content-Based, Travel and Booking, E-Learning, Fintech and Social Networking applications.**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/arashaghelifar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arashaghelifar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arash-aghelifar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arash-aghelifar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arash-aghelifar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arash-aghelifar/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11847411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11847411" height="30" width="40" /></a>
 </p>
 
